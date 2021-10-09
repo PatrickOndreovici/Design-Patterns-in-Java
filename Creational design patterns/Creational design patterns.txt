@@ -1,6 +1,0 @@
-Creational design patterns are concerned with the way of creating objects.
-The design patterns are used, when a decision must be made at the time of instantion of a class.
-
-Car maybach = new Car();
-
-
